@@ -1,0 +1,7 @@
+{
+  "name": "IET Exam Intelligence",
+  "description": "Historical MST paper analysis, chapter weightage insights, and AI-predicted practice exam generation for IET DAVV Indore engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
